@@ -292,6 +292,7 @@ const common = () => {
 
 		received: "green",
 		pending: "orange",
+		rejected: "red",
 	};
 
 	const purchaseOrderStatus = [
@@ -306,6 +307,10 @@ const common = () => {
 		{
 			key: "ordered",
 			value: t("common.ordered"),
+		},
+		{
+			key: "rejected",
+			value: t("common.rejected"),
 		},
 	];
 

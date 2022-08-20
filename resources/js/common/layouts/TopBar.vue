@@ -8,7 +8,6 @@
 			</a-col>
 			<a-col :span="12">
 				<HeaderRightIcons>
-
 					<ChangeWarehouse v-if="permsArray.includes('admin')" />
 					<a-divider type="vertical" />
 					<a-dropdown placement="bottomRight">
@@ -124,5 +123,9 @@ export default {
 
 .trigger:hover {
 	color: #1890ff;
+}
+
+body {
+	background: black;
 }
 </style>

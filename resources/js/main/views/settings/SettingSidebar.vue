@@ -63,7 +63,7 @@
 				</a-menu-item>
 
 
-				<!-- <a-menu-item
+				<a-menu-item
 					key="translations"
 					v-if="
 						permsArray.includes('translations_view') ||
@@ -75,7 +75,7 @@
 						<TranslationOutlined />
 					</template>
 					{{ $t("menu.translations") }}
-				</a-menu-item> -->
+				</a-menu-item>
 
 				<!-- <a-menu-item key="currencies" v-if="
 						permsArray.includes('currencies_view') ||
