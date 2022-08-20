@@ -14,6 +14,7 @@ Aplikasi Inventory Management dibuat untuk keperluan Tugas Akhir Skripsi @STIKOM
 -   **Purchase Management**
 -   **Customer & Suppliers Management**
 -   **Member Staff Management**
+-   **Setting Profile**
 -   **Roles & Permission**
 -   **Custom VAT/Taxes, Unit of Measurement, Translation**
 
